@@ -3,7 +3,7 @@ Dataset GAN Generated Images for Facial Expression Recognition systems
 
 Most of Facial Expression Recognition (FER) systems rely on machine learning approaches that require large databases (DBs) for an effective training. As these are not easily available, a good solution is to augment the DBs with appropriate techniques, which are typically based on either geometric transformation or deep learning based technologies (e.g., Generative Adversarial Networks (GANs)). Whereas the first category of techniques have been fairly adopted in the past, studies that use GAN-based techniques are limited for FER systems. To advance in this respect, we evaluate the impact of the GAN techniques by creating a new DB containing the generated synthetic images. The face images contained in the KDEF DB are used as the base to create novel synthetic images using the facial features of 2 images selected from the YouTube-Faces DB. 
 
-## If you make use of these datasets please consider citing the publication
+## If you make use of this dataset, please consider citing the publication
   Porcu, S., Floris, A., & Atzori, L. (2020). Evaluation of data augmentation techniques for facial expression recognition systems. Electronics, 9(11), 1892.
   
   BibTex format:
